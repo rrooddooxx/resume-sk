@@ -21,8 +21,6 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">@BartoszJ
 
 </div>
 
-<img src="portada.png"></img>
-
 ## 🔑 Licencia
 
 [MIT](LICENSE.txt) - Creado por [**midudev**](https://midu.dev).
