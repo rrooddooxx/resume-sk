@@ -2,7 +2,7 @@
   "basics": {
     "name": "Sebastián Kravetz",
     "label": "Software Engineer enfocado en Backend & Mobile, con experiencia en liderazgo de equipos de desarrollo. Co-Founder de Corporación No Lineal. Productor de Música Electrónica",
-    "image": "/sk.webp",
+    "image": "./sk.webp",
     "email": "root@sebastiankravetz.dev",
     "phone": "+56 981789809",
     "url": "https://sebastiankravetz.dev",
