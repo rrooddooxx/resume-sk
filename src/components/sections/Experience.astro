@@ -2,16 +2,18 @@
 import Section from "../Section.astro"
 
 import { work } from "@cv"
+import { format } from 'date-fns'
+import { es } from 'date-fns/locale'
 ---
 
 <Section title="Experiencia laboral">
   <ul>
     {
       work.map(
-        ({ name, startDate, endDate, position, summary, highlights, url }) => {
-          const startYear = new Date(startDate).getFullYear()
+        ({ name, startDate, endDate, position, summary, url }) => {
+          const startYear = format(new Date(startDate), 'PPP', {locale: es})
           const endYear =
-            endDate != null ? new Date(endDate).getFullYear() : "Actual"
+            endDate != null ? format(new Date(endDate), 'PPP', {locale: es}) : "Actual"
 
           return (
             <li>

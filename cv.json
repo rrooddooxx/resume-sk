@@ -1,190 +1,248 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "name": "Sebastián Kravetz",
+    "label": "Software Engineer enfocado en Backend & Mobile, con experiencia en liderazgo de equipos de desarrollo. Co-Founder de Corporación No Lineal. Productor de Música Electrónica",
+    "image": "/sk.webp",
+    "email": "root@sebastiankravetz.dev",
+    "phone": "+56 981789809",
+    "url": "https://sebastiankravetz.dev",
+    "summary": "¡Hola! Me vine del Cine al Software, y ya cuento con más de 4 años de experiencia desarrollando software a escala empresarial. Me gustan los desafíos que atraviesan todo el stack y me motivan a aprender tecnologías que no conocía. He liderado equipos de desarrollo en los cuales hemos implementado funcionalidades clave para el negocio dentro de los tiempos presupuestados, manteniendo un buen nivel de productividad en el equipo y alcanzando los objetivos comerciales propuestos.",
     "location": {
       "address": "",
       "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "city": "Viña Del Mar",
+      "countryCode": "CL",
+      "region": "Chile"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "sebastiankravetz",
+        "url": "https://linkedin.com/in/sebastiankravetz"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "rrooddooxx",
+        "url": "https://github.com/rrooddooxx"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "FEMSA Salud",
+      "position": "Senior Mobile Engineer (React Native)",
+      "url": "https://femsa.cl",
+      "startDate": "2024-07-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-      "highlights": [
-        "Started the company"
-      ]
+      "summary": "Desarrollo Full-Stack para proyecto de migración, aplicación móvil de Farmacias Cruz Verde (en Chile), de iOS nativo (Swift) a React-Native (c/ Typescript),  Mentoría/Acompañamiento a desarrolladores Junior, Formulación de Propuestas técnicas de arquitectura y buenas prácticas para el equipo."
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "Banco Internacional",
+      "position": "Technical Lead",
+      "url": "https://internacional.cl",
+      "startDate": "2023-10-01",
+      "endDate": "2024-07-01",
+      "summary": "Liderazgo técnico de la aplicación de Banca Personas y Banca Empresas. Con el equipo conseguimos la implementación de funcionalidades clave para operaciones bancarias, como: bloqueos y reposiciones y solicitudes de tarjetas físicas con delivery automatizado (B.Personas), y Autorizaciones y Pagos Masivos de Nóminas (B.Empresas). Para esto, diseñamos una arquitectura de microservicios orientada a eventos utilizando Kafka y NATS, utilizando en el código una diseño orientado a dominio, compartiendo un lenguaje ubicuo entre negocio y desarrollo. Liderazgo del equipo de desarrolladores, con mentorías, code reviews y pair- programmings, e incentivando “dev huddles” para investigar y resolver problemas técnicos. Liderazago de Refinamientos Técnicos junto al equipo de Desarrollo, en base a Historias Técnicas analizadas por mi. Planificación del backlog junto a Product Owners y Business Analysts. Como resultado, se fortaleció la cooperación interdepartamental, así como el cumplimiento de las metas y la posibilidad de avanzar en features a la vez que manteniendo la deuda técnica en su mínimo. Stack: React-Native c/ Expo (Front-End), Node.js/Nest.js/Express.js y Spring Boot(Back-End). Microsoft SQL Server, MongoDB y Redis (Bases de Datos SQL y NoSQL). Kafka, NATS y JMS -CORE Bancario- (Sistemas de mensajería y colas)."
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "Banco Internacional",
+      "url": "https://internacional.cl",
+      "position": "Full Stack Sofware Engineer (Web & Mobile)",
+      "startDate": "2022-06-01",
+      "endDate": "2023-10-01",
+      "summary": "En desarrollo Mobile: Desarrollador Full-Stack Mobile con Typescript utilizando React-Native y Nest.js (Node.js) para desarrollar la nueva App de Banca Personas. Implementé directamente, y en algunos casos completamente, funcionalidades como: Notificaciones Push (iOS y Android), Carrusel de Productos (Cuentas y Tarjetas), Custom UI Kit, Transferencia Electrónica de Fondos, Pago TC, Configuración del entorno de testing y Actualización SDK Expo y React-Native. En desarrollo Web: Implementé nuevas funcionalidades como mejoras en funcionalidades existentes, entre las que destacan: Flujo de simulación y solicitud de Créditos de Consumo, Pago QR, Campañas de Aumento de Cuotas TC, Resumen productos TC (micro-frontends en Banca Privada), Renovación imagen TC, Mantención de Procedimientos Almacenados (T-SQL). Stack: Front-End con Typescript utilizando React, Redux, SCSS, Storybook; Back- End con Spring Boot (Java) y Nest.js (Typescript); Bases de Datos con MS.SQL, Stored Procedures (T-SQL), JDBC, JPA, Hibernate. Testing con Jest, react- testing-library, Junit y Mockito."
+    },
+    {
+      "name": "Corporación No Lineal",
+      "url": "https://nolineal.cl",
+      "position": "Co-Founder & Technical Lead",
+      "startDate": "2019-10-01",
+      "endDate": "2023-10-01",
+      "summary": "Primer Presidente de la Corporación, Co-Fundador y Lider Técnico. Realización de MVP para proyecto EdTech, ganadores CORFO Capital Semilla 2021. Creación de entorno de Aula Virtual para el encuentro _Residencia NoLineal_, un encuentro de aprendizaje colectivo de Producción de Música Electrónica, dado en 2021, 2022 y 2023."
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "education": [
+    {
+      "institution": "Duoc UC",
+      "url": "https://www.duoc.cl",
+      "area": "Ingeniero en Desarrollo de Software (Cursando)",
+      "studyType": "Bachelor",
+      "startDate": "2022-01-01",
+      "endDate": "2025-01-01"
+    },
+    {
+      "institution": "Desafío Latam & Talento Digital (CORFO)",
+      "url": "https://www.talentodigitalparachile.com",
+      "area": "Bootcamp Full Stack Javascript Trainee",
+      "studyType": "Bootcamp",
+      "startDate": "2021-10-01",
+      "endDate": "2022-05-01"
+    },
+    {
+      "institution": "Universidad de Valparaíso",
+      "url": "https://www.uv.cl",
+      "area": "Cineasta",
+      "studyType": "Bachelor",
+      "startDate": "2012-01-01",
+      "endDate": "2016-01-01"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
     },
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "Tailwind",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
       ]
     },
     {
       "name": "TypeScript",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
       ]
     },
     {
       "name": "Node",
       "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "Spring Boot",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "JPA & Hibernate",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "Oracle SQL & PL/SQL",
+      "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
       ]
     },
     {
-      "name": "MySQL",
+      "name": "PostgreSQL",
       "level": "Avanzado",
       "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
       ]
     },
     {
       "name": "Git",
       "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "Nest.js",
+      "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
       ]
     },
     {
-      "name": "GitHub",
+      "name": "Apache Kafka",
       "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     },
     {
-      "name": "Next.js",
+      "name": "NATS",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Kubernetes",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Docker",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "React",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "React Native",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Jest",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "XCode",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Android Studio",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Expo",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     }
   ],
   "languages": [
@@ -195,81 +253,72 @@
     {
       "language": "English",
       "fluency": "Advanced"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Advanced"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "CalcHonorarios",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Calculadora de Boleta de Honorarios para trabajadores independientes en Chile, ajustada a la última Reforma Tributaria",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Next.js",
+        "Tailwind CSS",
+        "AWS",
+        "+3000 visitas mensuales"
       ],
-      "url": "https://mars.codes"
+      "url": "https://boletas.nolineal.cl",
+      "github": "https://github.com/rrooddooxx/boleta_honorarios_sii"
     },
     {
-      "name": "AdventJS",
+      "name": "TeLlevo App",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "APP de iniciativa para Car Sharing / Car Pooling en universidades e institutos de Chile",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Ionic",
+        "Angular",
+        "Capacitor",
+        "Firebase",
+        "Google Maps API",
+        "Google Places API",
+        "PostgreSQL"
       ],
-      "url": "https://adventjs.dev"
+      "github": "https://github.com/rrooddooxx/tellevoapp"
     },
     {
-      "name": "Codember",
+      "name": "nestjs-kafka-retries",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://codember.dev"
+      "description": "Librería para NestJS que permite reintentar el envío de mensajes a un servidor Apache Kafka, manejando el offset y el tiempo de reintentos",
+      "highlights": ["En Desarrollo", "NestJS", "Apache Kafka"]
     },
     {
-      "name": "codi.link",
+      "name": "Calculadora de Finiquitos Laborales",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "description": "Aplicación de escritorio realizada para el apoyo de PYMES",
+      "highlights": ["Java", "Spring Boot", "AWS", "Swing", "MySQL"],
+      "github": "https://github.com/rrooddooxx/java_pgy2121_finiquitos"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "LMS para Residencia No Lineal (Corporación No Lineal)",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "description": "Entorno de aprendizaje virtual para la Residencia No Lineal, un encuentro de aprendizaje colectivo de Producción de Música Electrónica",
+      "highlights": ["100% gratuito", "+300 estudiantes por año"],
+      "url": "https://lms.nolineal.cl"
     },
     {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "name": "Java Learning Notes",
+      "description": "Repositorio de apuntes de Java, con ejemplos y ejercicios",
+      "highlights": ["Java", "Data Structures", "Algorithms"],
+      "github": "https://github.com/rrooddooxx/java_learning_notes"
     }
   ]
 }
