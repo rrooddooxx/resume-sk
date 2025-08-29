@@ -274,6 +274,32 @@
     }
   ],
   "projects": [
+      {
+      "name": "Finapsis",
+      "isActive": true,
+      "description": "Aplicación de gestión financiera personal con IA. 3er lugar en Hackathon AI Challenge de Desafío Latam y Oracle Cloud",
+      "highlights": [
+        "RAG con Postgres pgvector",
+        "OCI AI Document Understanding + OCI AI Vision",
+        "OpenAI Vision API",
+        "3er lugar Hackathon AI Challenge Desafío Latam x Oracle Cloud"
+      ],
+      "url": "https://github.com/rrooddooxx/finapsis",
+      "github": "https://github.com/rrooddooxx/finapsis"
+    },
+      {
+      "name": "HeyAru",
+      "isActive": true,
+      "description": "Aplicación de traducción de conversaciones en tiempo-real, utilizando IA, para la OpenAI Hackathon en Chile. Tuve el honor de ser el líder del equipo #311, que pasó la selección oficial para ser uno de los 31 equipos participantes, de entre 1000 postulantes, a la AI Hackathon organizada en Santiago de Chile por OpenAI, Fintual y Community OS los días 23 al 25 de Agosto de 2024.",
+      "highlights": [
+        "Whisper Model",
+        "WebRTC",
+        "RTSP",
+        "Selección oficial OpenAI Hackathon (CommunityOS + Fintual)"
+      ],
+      "url": "https://github.com/rrooddooxx/ainterpreter_backend",
+      "github": "https://github.com/rrooddooxx/ainterpreter_backend"
+    },
     {
       "name": "CalcHonorarios",
       "isActive": true,
