@@ -29,6 +29,14 @@
   },
   "work": [
     {
+      "name": "Tenpo",
+      "position": "Backend Engineer (Java & Spring Framework)",
+      "url": "https://www.tenpo.cl",
+      "startDate": "2025-07-01",
+      "endDate": null,
+      "summary": "Actualmente integro equipo de desarollo Backend, implementando productos basados en Depósitos a Plazo, Ahorro e Inversiones. También somos responsables del pipeline de datos para generar los reportes normativos bancarios. Las tecnologías que más utilizo en el trabajo diario son Java (17 y 21) con Spring Framework, Apache Kafka, Postgres, OpenTelemetry, Prometheus, Grafana y Elasticsearch."
+    },
+    {
       "name": "FEMSA Salud",
       "position": "Senior Mobile Engineer (React Native)",
       "url": "https://femsa.cl",
